@@ -1,0 +1,32 @@
+<%- include('partials/header.ejs') -%>
+    <h1>Home</h1>
+    <p>
+        <%=homeText %>
+    </p>
+
+    <%postArray.forEach(element=> {%>
+        <h1>
+            <%=element.title%>
+
+        </h1>
+        <span id="holder">
+
+            <%-element.post%>
+
+
+
+
+        </span>
+
+
+        <span>... <a href='posts/<%=element.tag%>'>Read More</a></span>
+
+
+
+        <%}) %>
+
+
+
+
+
+            <%- include('partials/footer.ejs') -%>
