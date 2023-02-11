@@ -27,9 +27,9 @@ Vanilla JavaScript
 
 [MongoDB Atlas](https://chat.openai.com/chat/a99cec58-75e7-405c-a477-9c34f51550f8#:~:text=for%20generating%20HTML-,MongoDB%20Atlas,-%2D%20A%20cloud%2Dbased) - A cloud-based NoSQL database
 
-Contributing
+## Contributing
 If you would like to contribute to this project, please read the CONTRIBUTING.md file for details on the code of conduct and the process for submitting pull requests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
