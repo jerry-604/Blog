@@ -9,7 +9,7 @@ This blog website allows you to create, view, and manage blog posts. The fronten
 Follow these steps to set up the app on your local machine:
 
 Clone the repository:
-git clone https://github.com/user/blog.git
+git clone https://github.com/jerry-604/Blog.git
 
 ## Navigate to the project directory:
 cd blog
