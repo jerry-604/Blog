@@ -23,7 +23,8 @@ Open your browser and navigate to http://localhost:3000 to view the app.
 
 ## Built With
 Vanilla JavaScript
-[EJS](https://chat.openai.com/chat/a99cec58-75e7-405c-a477-9c34f51550f8#:~:text=Vanilla%20JavaScript-,EJS,-%2D%20A%20simple%20templating)- A simple templating language for generating HTML
+[EJS](https://chat.openai.com/chat/a99cec58-75e7-405c-a477-9c34f51550f8#:~:text=Vanilla%20JavaScript-,EJS,-%2D%20A%20simple%20templating)- A simple templating language for generating HTML.
+
 [MongoDB Atlas](https://chat.openai.com/chat/a99cec58-75e7-405c-a477-9c34f51550f8#:~:text=for%20generating%20HTML-,MongoDB%20Atlas,-%2D%20A%20cloud%2Dbased) - A cloud-based NoSQL database
 
 Contributing
