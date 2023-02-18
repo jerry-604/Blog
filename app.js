@@ -77,7 +77,7 @@ app.get('/posts/:topic', (req, res) => {
         let post = lodash.lowerCase(element.title)
         if (topic === post) { res.render('post', { header: element.title, body: element.post }) }
       })
-      res.render('post', { header: element.title, body: element.post })
+      // res.render('post', { header: element.title, body: element.post })
 
     }
   })
